@@ -4,7 +4,7 @@
 Este proyecto consiste en el desarrollo de un videojuego de batalla naval como trabajo final de la asignatura. El juego será implementado en los lenguajes de programación Python y C++.
 
 ## Objetivo
-Desarrollar un juego funcional basado en lógica discreta, en el cual los jugadores puedan ubicar barcos en un tablero y realizar disparos por turnos hasta determinar un ganador.
+Desarrollar un juego funcional basado en las estrategias de programación vistas en clase, en el cual los jugadores puedan ubicar barcos en un tablero y realizar disparos por turnos hasta determinar un ganador.
 
 ## Características principales
 - Tablero representado mediante matrices
@@ -19,4 +19,4 @@ Desarrollar un juego funcional basado en lógica discreta, en el cual los jugado
 - GitHub para control de versiones
 
 ## Estado del proyecto
-En desarrollo
+En desarrollo.
